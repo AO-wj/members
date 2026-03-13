@@ -1,0 +1,15 @@
+---
+title: "关于我"
+format: html
+---
+
+# 关于页面
+## 基本信息
+- 学号：2025303110060
+- 姓名：敖文洁
+- 学习方向：Quarto 网站开发、GitHub Pages 发布
+
+## 网站说明
+- 网站框架：Quarto（开源的多格式文档/网站生成工具）
+- 发布平台：GitHub Pages（免费的静态网站托管服务）
+- 开发环境：Windows + PowerShell
